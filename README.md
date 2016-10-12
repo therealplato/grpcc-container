@@ -1,6 +1,9 @@
 ### grpcc-container
 This project defines a container for running the command line grpcc client.
 
+Forked from njpatel/grpcc to therealplato/grpcc to fix some linux
+containerization problems.
+
 +---docker-machine or k8s pod--------+
 | +-therealplato/grpcc-container----+|
 | |                                 ||
